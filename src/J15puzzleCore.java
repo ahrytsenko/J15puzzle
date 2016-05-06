@@ -5,7 +5,7 @@
 ** Programing Language: Java
 */ 
 
-package ua.kiev.agrit.java.j15puzzle;
+package ua.kiev.agrit.games.j15puzzle;
 
 import java.util.*;
 
